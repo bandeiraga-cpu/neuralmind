@@ -1,5 +1,9 @@
 {
  "versao": 1,
- "atualizado_em": "2026-10-23T17:01:57",
- "codigos": {}
+ "atualizado_em": "2026-10-23T17:02:21",
+ "codigos": {
+  "cd1482ec771fe88fdebfd0c24e7aec0ae0c41d5cb38edd7c3a6d2eb10f25e658": {
+   "status": "ativo"
+  }
+ }
 }
